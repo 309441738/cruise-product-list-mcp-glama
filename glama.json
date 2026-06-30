@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "cruise-product-list",
+  "description": "根据条件筛选邮轮产品列表，支持多种过滤条件，快速获取您想要的邮轮产品。"
+}
